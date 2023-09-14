@@ -19,4 +19,4 @@ async def on_message(message):
         await message.channel.send('\n'.join(getshirturls()))
 
 
-client.run('[TOKEN GOES HERE')
+client.run('[TOKEN GOES HERE]')
